@@ -176,7 +176,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 		width: 100%;
 		background-color: rgba(125,102,94,0.57);
 		transition: right 0.3s ease 0s;
-		padding: 10px;
 		border-radius: 5px;
 		overflow: auto;
 	}
